@@ -1,0 +1,16 @@
+E:\DotnetApps\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\net8.0\MicroRabbit.Infra.Bus.deps.json
+E:\DotnetApps\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\net8.0\MicroRabbit.Infra.Bus.dll
+E:\DotnetApps\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\net8.0\MicroRabbit.Infra.Bus.pdb
+E:\DotnetApps\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\net8.0\MicroRabbit.Domain.Core.dll
+E:\DotnetApps\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\net8.0\MicroRabbit.Domain.Core.pdb
+E:\DotnetApps\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\net8.0\MicroRabbit.Infra.Bus.csproj.AssemblyReference.cache
+E:\DotnetApps\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\net8.0\MicroRabbit.Infra.Bus.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotnetApps\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\net8.0\MicroRabbit.Infra.Bus.AssemblyInfoInputs.cache
+E:\DotnetApps\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\net8.0\MicroRabbit.Infra.Bus.AssemblyInfo.cs
+E:\DotnetApps\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\net8.0\MicroRabbit.Infra.Bus.csproj.CoreCompileInputs.cache
+E:\DotnetApps\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\net8.0\MicroRabbit.Infra.Bus.sourcelink.json
+E:\DotnetApps\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\net8.0\MicroRab.FA639025.Up2Date
+E:\DotnetApps\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\net8.0\MicroRabbit.Infra.Bus.dll
+E:\DotnetApps\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\net8.0\refint\MicroRabbit.Infra.Bus.dll
+E:\DotnetApps\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\net8.0\MicroRabbit.Infra.Bus.pdb
+E:\DotnetApps\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\net8.0\ref\MicroRabbit.Infra.Bus.dll
