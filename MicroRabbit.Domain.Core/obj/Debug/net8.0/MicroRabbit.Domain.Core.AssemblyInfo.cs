@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MicroRabbit.Domain.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+787bc82958f72a5e3730b281f525cdd90c8dd097")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0723c610b0d476e3483cba4fe54dccbd32822048")]
 [assembly: System.Reflection.AssemblyProductAttribute("MicroRabbit.Domain.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MicroRabbit.Domain.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

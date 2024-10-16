@@ -1,0 +1,13 @@
+E:\DotnetApps\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net8.0\MicroRabbit.Domain.Core.csproj.AssemblyReference.cache
+E:\DotnetApps\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net8.0\MicroRabbit.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotnetApps\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net8.0\MicroRabbit.Domain.Core.AssemblyInfoInputs.cache
+E:\DotnetApps\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net8.0\MicroRabbit.Domain.Core.AssemblyInfo.cs
+E:\DotnetApps\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net8.0\MicroRabbit.Domain.Core.csproj.CoreCompileInputs.cache
+E:\DotnetApps\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net8.0\MicroRabbit.Domain.Core.sourcelink.json
+E:\DotnetApps\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\net8.0\MicroRabbit.Domain.Core.deps.json
+E:\DotnetApps\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\net8.0\MicroRabbit.Domain.Core.dll
+E:\DotnetApps\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\net8.0\MicroRabbit.Domain.Core.pdb
+E:\DotnetApps\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net8.0\MicroRabbit.Domain.Core.dll
+E:\DotnetApps\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net8.0\refint\MicroRabbit.Domain.Core.dll
+E:\DotnetApps\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net8.0\MicroRabbit.Domain.Core.pdb
+E:\DotnetApps\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net8.0\ref\MicroRabbit.Domain.Core.dll
